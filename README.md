@@ -11,10 +11,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,7 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/stormlycan/3-column-preview-card-component-main)
+- Solution URL: [github solution](https://github.com/stormlycan/3-column-preview-card-component-main)
+- Live URL: [github pages](https://stormlycan.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
